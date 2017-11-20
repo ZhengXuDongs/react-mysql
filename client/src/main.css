@@ -1,0 +1,115 @@
+.menu {	
+    width: 100%;
+    background-color: black;
+    text-align: right;
+    height: 40px;
+    font-size: 15px;
+    line-height: 40px;
+}
+.menuitem{
+    display: inline-block;
+    padding-right: 20px;
+    color:white;
+ }
+ .login{
+ 	position: absolute;;
+ 	top: 50%;
+ 	left: 50%;
+ 	width: 340px;
+ 	height: 240px;
+ 	margin-left: 190px;
+ 	margin-top: -30px;
+ 	box-shadow: 0px 0px 2px 2px #a89d9d;
+ 	border-radius: 5px;
+ 	background-color: white;
+ }
+ .login_form{
+ 		margin-left: 19px;
+    	padding-top: 20px;
+ }
+ .login_input{
+ 		width:320px;
+ }
+ .login_wrap{
+ 	height: 638px;
+ 	background-image: url(./Public/images/2.jpg);
+ 	background-repeat: no-repeat; 
+ }
+ .fontcolor{
+ 	color: white;
+ }
+
+ .register_wrap{
+ 	height: 100%;
+    background-color: #f7f7f7;
+    padding-top: 70px;
+ }
+
+ .register_content{
+ 	width:80%;
+ 	height: 530px;
+ 	background-color: white;
+ 	margin: 0 auto 70px auto;
+ 	padding-top: 20px;
+ 	color: black;
+ }
+ .form_item{
+ 	font-size: 14px;
+ 	margin-bottom: 12px;
+ }
+ .ant-form-item-label label {
+    color: rgba(0,0,0,.85) !important;
+    font-size: 14px;
+}
+.form_input{
+    width: 400px !important;
+    border: 1px solid #d9d9d9;
+    border-radius: 2px;
+}
+.main_wrap{
+    height: 100%;
+    width: 100%;
+}
+.main_header{
+    width: 87%;
+    margin: 20px auto;
+}
+.main_header_content{
+    width: 87%;
+    margin: 40px auto;
+    border: 1px solid #e5e5e5;
+}
+.header_type{
+    margin: 15px 20px 10px 15px;
+    border-bottom: 1px solid #e5e5e5;
+    padding-bottom: 20px;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+.header_area{
+    margin: 15px 20px 10px 15px;
+    border-bottom: 1px solid #e5e5e5;
+    padding-bottom: 20px;
+}
+.header_year{
+    margin: 15px 20px 10px 15px;
+}
+.spans{
+    padding-left: 20px;
+}
+
+.main_content{
+    width: 87%;
+    margin: 40px auto;
+    border: 1px solid #e5e5e5;
+}
+.main_content_product{
+    width:50px;
+    height: 70px;
+}
+.main_product_img{
+    width: 230px;
+    height: 300px;
+    padding: 20px 20px;
+    margin-left: 4px;
+}
